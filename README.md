@@ -8,27 +8,20 @@ Welcome to my project, ...
 ## Vite
 Vite: The project was built using the Vite framework, which served as the template for development. Vite is a modern build tool that offers a fast and efficient development experience for JavaScript-based applications.
 
+## TypeScript
+## JavaScript
+
 ## React
 I used React, a JavaScript library, to build the user interface and manage component-based architecture efficiently.
-
-## TypeScript
-
-## JavaScript
 
 ## SCSS
 SCSS: It improves code maintainability and provides a more organized and efficient way of writing styles. By using SCSS, I could define reusable styles, reduce code duplication, and improve the organization of my stylesheets. SCSS's ability to nest selectors and use variables allowed for more modular and readable code. 
 
-## React-Hook-Form
-
 ## React-Toastify
 For displaying notifications and providing feedback to users, I utilized React Toastify. It allowed me to easily show toast notifications such as success messages.
 
-## Bulma
-
 ## Classnames Library
 I utilized classnames to manage dynamic class assignments based on specific conditions, enhancing the flexibility and readability of the code.
-
-## Regex
 
 ## npm
 npm: It allowed me to manage project dependencies and install various libraries and tools needed for the project.
