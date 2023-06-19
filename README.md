@@ -17,9 +17,6 @@ I used React, a JavaScript library, to build the user interface and manage compo
 ## SCSS
 SCSS: It improves code maintainability and provides a more organized and efficient way of writing styles. By using SCSS, I could define reusable styles, reduce code duplication, and improve the organization of my stylesheets. SCSS's ability to nest selectors and use variables allowed for more modular and readable code. 
 
-## React-Toastify
-For displaying notifications and providing feedback to users, I utilized React Toastify. It allowed me to easily show toast notifications such as success messages.
-
 ## Classnames Library
 I utilized classnames to manage dynamic class assignments based on specific conditions, enhancing the flexibility and readability of the code.
 
